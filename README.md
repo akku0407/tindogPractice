@@ -1,2 +1,2 @@
 #TinDog </br>
-https://rushkinrenny.github.io/tindogPractice/
+https://akku0407.github.io/tindogPractice/
